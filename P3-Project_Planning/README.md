@@ -12,6 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 - [Home Page](https://github.com/git-gd/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.png)
 - [Customer Ticket List](https://github.com/git-gd/liftoff-assignments/blob/master/P3-Project_Planning/CustomerTicketList.png)
+- [Create New Ticket](https://github.com/git-gd/liftoff-assignments/blob/master/P3-Project_Planning/CreateNewTicket.png)
 
 ### Project Tracker
 
