@@ -20,7 +20,7 @@ My project is a computer repair shop ticket system that supports creating, viewi
 - Search Tickets: Search ticket fields
 - Update Tickets: Technicians and admins will be able to update tickets.
 - Delete Tickets: Admin will be able to delete tickets.
-### Advanced features may include:
+### Additional features may include:
 - using an API to notify customers of ticket status changes via SMS/Email
 - using an API to calculate tax and shipping rates
 ### Technologies
