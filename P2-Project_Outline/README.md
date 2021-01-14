@@ -30,7 +30,7 @@ My project is a computer repair shop ticket system that supports creating, viewi
 - Bootstrap
 - JavaScript
 ### What I'll Have to Learn
-- How to implement Role-based access control (RBAC)
+- How to implement group-based access control
 - How to connect to and use SMS/Email API
 - How to connect to and use tax and shipping rate API
 ### Project Tracker
