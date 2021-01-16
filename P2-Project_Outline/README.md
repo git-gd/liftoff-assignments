@@ -18,7 +18,7 @@ My project is a computer repair shop ticket system that supports creating, viewi
 - List Tickets: List tickets that the user's group has permission to view.
 - View Ticket Details: View detailed ticket information.
 - Search Tickets: Search ticket fields
-- Update Tickets: Technicians and admins will be able to update tickets.
+- Update Tickets: Users will be able to update tickets.
 - Delete Tickets: Admin will be able to delete tickets.
 ### Additional features may include:
 - using an API to notify customers of ticket status changes via SMS/Email
