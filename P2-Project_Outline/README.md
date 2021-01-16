@@ -7,9 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project is a computer repair shop ticket system that supports creating, viewing, updating and deleting service tickets. After customers login they will be able to create and view their own tickets. After technicians login they will be able to view and update service tickets that were created by customers. After administrators login they will be able to create (*1), view, update and delete any ticket.
-
-(*1) - Allowing admins to create tickets will require tickets be assigned to an existing user or allowing admins to create new users. Allowing admins to create new users may not be practical to implement depending on time.
+My project is a computer repair shop ticket system that supports creating, viewing, updating and deleting service tickets. After customers login they will be able to create and view their own tickets. After technicians login they will be able to view and update service tickets that were created by customers. After administrators login they will be able to create, view, update and delete any ticket.
 
 ### Features
 - User Login: Users will be able to create accounts and login.
