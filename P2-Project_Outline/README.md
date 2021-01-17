@@ -28,7 +28,7 @@ My project is a computer repair shop ticket system that supports creating, viewi
 - Bootstrap
 - JavaScript
 ### What I'll Have to Learn
-- How to implement group-based access control
+- How to implement role-based authorization
 - How to connect to and use SMS/Email API
 - How to connect to and use tax and shipping rate API
 ### Project Tracker
